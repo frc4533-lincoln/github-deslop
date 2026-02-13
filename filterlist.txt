@@ -1,0 +1,14 @@
+! Title: Github Deslop
+! Last modified: %timestamp%
+! Expires: 1 day
+! Description: Removes slop features from Github
+! Homepage: https://github.com/frc4533-lincoln/github-deslop
+! Forums: https://github.com/frc4533-lincoln/github-deslop/issues
+
+github.com##li.prc-UnderlineNav-UnderlineNavItem-syRjR:has-text("Agents")
+github.com##span:has(> div[class*="CopilotChat"])
+github.com##li:has(a[href="/settings/copilot"])
+github.com##li:has(>.ActionListContent:has-text("Copilot"))
+github.com##li:has(>.ActionListContent:has-text("Models"))
+github.com##.copilotPreview__container
+||github.com/github-copilot/*
