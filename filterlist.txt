@@ -12,3 +12,4 @@ github.com##li:has(>.ActionListContent:has-text("Copilot"))
 github.com##li:has(>.ActionListContent:has-text("Models"))
 github.com##.copilotPreview__container
 ||github.com/github-copilot/*
+||githubcopilot.com$domain=github.com
