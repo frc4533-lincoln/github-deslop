@@ -13,3 +13,6 @@ github.com##li:has(>.ActionListContent:has-text("Models"))
 github.com##.copilotPreview__container
 ||github.com/github-copilot/*
 ||githubcopilot.com$domain=github.com
+github.com##span:has(svg.octicon-copilot)
+github.com##button:has(svg.octicon-copilot)
+github.com##div:has(>div>button[data-testid="open-in-copilot-agent-button"])
